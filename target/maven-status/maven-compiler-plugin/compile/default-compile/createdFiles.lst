@@ -1,0 +1,6 @@
+com\upiiz\biblioteca\BibliotecaApplication.class
+com\upiiz\biblioteca\controllers\BibliotecaController.class
+com\upiiz\biblioteca\models\Biblioteca.class
+com\upiiz\biblioteca\repository\BibliotecaRepository.class
+com\upiiz\biblioteca\services\BibliotecaService.class
+com\upiiz\biblioteca\repository\BibliotecaRepository$1.class
