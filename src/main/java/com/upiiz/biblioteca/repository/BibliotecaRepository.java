@@ -17,7 +17,7 @@ public class BibliotecaRepository {
     private List<Biblioteca> bibliotecas;
     private AtomicLong id;
     private ObjectMapper objectMapper = new ObjectMapper(); // ObjectMapper para manejar JSON
-    private final String jsonFilePath = "src/main/resources/libros.json"; // Ruta del archivo JSON
+    private final String jsonFilePath = "json/libros.json"; // Ruta del archivo JSON
 
     public BibliotecaRepository() {
         // Cargar el archivo JSON al inicializar el repositorio

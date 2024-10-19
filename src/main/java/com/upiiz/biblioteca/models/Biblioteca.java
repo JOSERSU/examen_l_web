@@ -1,7 +1,5 @@
 package com.upiiz.biblioteca.models;
 
-import java.util.Date;
-
 public class Biblioteca {
     private Long id;
     private String titulo;
